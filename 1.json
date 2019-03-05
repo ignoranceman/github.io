@@ -1,0 +1,11 @@
+{
+  "name": "Tom",
+  "age": 18,
+  "gender": "male",
+  "habit": "Reading",
+  "scores": [
+    "100",
+    "95",
+    "88"
+  ]
+}
